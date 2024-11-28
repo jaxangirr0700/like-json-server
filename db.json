@@ -1,0 +1,47 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Watch",
+      "info": "mexanika",
+      "price": 59.99,
+      "img": "https://avatars.mds.yandex.net/i?id=c219dca56d56015915110838c25656cb300642f0-4479702-images-thumbs&n=13",
+      "liked": false,
+      "like": []
+    },
+    {
+      "id": "2",
+      "name": "Camera",
+      "info": "48mp",
+      "price": 109.99,
+      "img": "https://avatars.mds.yandex.net/i?id=e16bf1bc892e741cd102aa6974f2acee_l-5246466-images-thumbs&n=13",
+      "liked": true,
+      "like": []
+    },
+    {
+      "id": "3",
+      "name": "clear elements",
+      "info": "turli xil tozalash anjomlari",
+      "price": 15.99,
+      "img": "https://avatars.mds.yandex.net/i?id=13587fea1411f0d7ce4fa387c6823be702b8ceac-4968757-images-thumbs&n=13",
+      "liked": false
+    },
+    {
+      "id": "4",
+      "name": "shampoo",
+      "info": "turli xil shampunlar",
+      "price": 9.99,
+      "img": "https://avatars.mds.yandex.net/i?id=7acd7b38dc1ef8663baebd448774732935ca18cf-9701297-images-thumbs&n=13",
+      "liked": false
+    }
+  ],
+  "like": [
+    {
+      "id": "2",
+      "name": "Camera",
+      "img": "https://avatars.mds.yandex.net/i?id=e16bf1bc892e741cd102aa6974f2acee_l-5246466-images-thumbs&n=13",
+      "info": "48mp",
+      "price": 109.99
+    }
+  ]
+}
